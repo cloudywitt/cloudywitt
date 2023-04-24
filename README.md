@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Ângelo.
 
-I'm Ângelo. I'm a brazilian Computer Science student currently learning C and how to use Git and Github. I know some Python aswell and I want to work as a backend software developer.
+I'm a brazilian Computer Science student who wants to work as a backend software developer. I'm currently learning C and how to use Git and Github.
 
 <!--
 **cloudywitt/cloudywitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
