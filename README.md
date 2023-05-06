@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ângelo.
 
-<br>- 📚 I’m studying Computer Science at UFRR <br>- 🖥️ I'm currently learning C, Git and Github <br>- 🎯 I want to be a backend developer</p>
+<br>- 📚 I’m studying Computer Science at UFRR <br>- 🖥️ I'm currently learning C, Git and Github <br>- 🎯 I want to be a backend software developer</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cloudywitt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
