@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ângelo.
 
-<br>- 📚 I’m studying Computer Science at UFRR <br>- 🖥️ I'm currently learning C, Git and Github <br>- 🎯 I want to be a backend software developer</p>
+<br>- 📚 I’m studying Computer Science at UFRR <br>- 🖥️ I'm currently learning Java <br>- 🎯 I want to be a backend software developer</p>
 
 ###
 
