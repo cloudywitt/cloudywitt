@@ -15,6 +15,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
 </div>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cloudywitt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ###
 
 <!--
